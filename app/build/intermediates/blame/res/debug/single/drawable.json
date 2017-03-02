@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    }
+]

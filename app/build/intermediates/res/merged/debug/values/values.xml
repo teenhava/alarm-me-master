@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="occurence">
+    <item>Once</item>
+    <item>Weekly</item>
+  </string-array>
+    <string-array name="pref_alarm_play_time_entries">       
+    <item>10 seconds</item>
+    <item>30 seconds</item>
+    <item>1 minute</item>
+    <item>2 minutes</item>
+    <item>3 minutes</item>
+    <item>5 minutes</item>
+  </string-array>
+    <string-array name="pref_alarm_play_time_values">       
+    <item>10</item>
+    <item>30</item>
+    <item>60</item>
+    <item>120</item>
+    <item>180</item>
+    <item>300</item>
+  </string-array>
+    <color name="alarm_details">#888888</color>
+    <color name="alarm_title_active">#444444</color>
+    <color name="alarm_title_outdated">#888888</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="dark_grey">#555555</color>
+    <color name="green">#00ff00</color>
+    <color name="grey">#888888</color>
+    <color name="light_grey">#aaaaaa</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <string name="app_name">AlarmMe</string>
+    <style name="edit_button">
+    <item name="android:layout_width">0sp</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+    <item name="android:background">@android:drawable/btn_default</item>
+  </style>
+    <style name="list_item">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+    <style name="widget">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+</resources>

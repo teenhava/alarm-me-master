@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:3:3-32
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:5:3-30
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:4:3-27
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:6:3-41
+uses-sdk
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:8:3-11:34
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\chandu\.android\build-cache\e5920355c90faf6748a7364e994422d52bc4577d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\chandu\.android\build-cache\5c8cc4cf01aeb146c4afd893a6e829a00a3af412\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\chandu\.android\build-cache\4f196359d5a17e504ac9327c4123defa3c4702d5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\chandu\.android\build-cache\e52644b0295d5ad997c536da48624b1127bd6f35\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\chandu\.android\build-cache\bc6b29791d479160d73ccef53560b3e8ffd4315d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\chandu\.android\build-cache\3a1b6b79f3912f370e5fc2d9b1247c2b6ac6cf97\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.1] C:\Users\chandu\.android\build-cache\e5920355c90faf6748a7364e994422d52bc4577d\output\AndroidManifest.xml:23:9-51
+	android:maxSdkVersion
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:11:5-31
+	android:targetSdkVersion
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:10:5-34
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:9:5-31
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alarm-me-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:13:3-14:49
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:14:5-46
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:16:3-17:64
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:17:5-61
+application
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:19:3-60:17
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\chandu\.android\build-cache\e5920355c90faf6748a7364e994422d52bc4577d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\chandu\.android\build-cache\5c8cc4cf01aeb146c4afd893a6e829a00a3af412\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\chandu\.android\build-cache\4f196359d5a17e504ac9327c4123defa3c4702d5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\chandu\.android\build-cache\e52644b0295d5ad997c536da48624b1127bd6f35\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\chandu\.android\build-cache\bc6b29791d479160d73ccef53560b3e8ffd4315d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\chandu\.android\build-cache\3a1b6b79f3912f370e5fc2d9b1247c2b6ac6cf97\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:20:5-37
+	android:icon
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:21:5-41
+activity#com.taradov.alarmme.AlarmMe
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:23:5-31:16
+	android:label
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:25:7-39
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:24:7-30
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:27:7-30:23
+action#android.intent.action.MAIN
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:29:9-69
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:29:19-66
+activity#com.taradov.alarmme.EditAlarm
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:33:5-35:36
+	android:label
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:35:7-33
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:34:7-32
+activity#com.taradov.alarmme.AlarmNotification
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:37:5-39:44
+	android:label
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:39:7-41
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:38:7-40
+activity#com.taradov.alarmme.Preferences
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:41:5-43:37
+	android:label
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:43:7-34
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:42:7-34
+activity#com.taradov.alarmme.About
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:45:5-47:31
+	android:label
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:47:7-28
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:46:7-28
+receiver#com.taradov.alarmme.AlarmReceiver
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:49:5-51:35
+	android:process
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:51:7-32
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:50:7-36
+receiver#com.taradov.alarmme.BootCompletedReceiver
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:53:5-58:16
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:53:15-52
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:54:7-57:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:55:9-71
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:55:17-68
+category#android.intent.category.DEFAULT
+ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:56:9-68
+	android:name
+		ADDED from E:\alarm-me-master\app\src\main\AndroidManifest.xml:56:19-65

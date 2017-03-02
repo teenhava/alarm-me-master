@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\alarm-me-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5924999f6dce534d288420d510af6b353d81d742">
+        <dex dex="E:\alarm-me-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e9dfa48bcd8b3495611481b70d361d52109c6d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\alarm-me-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f319698c8b2f0c562fa61cc7fbd23f2b65cd7bf0">
+        <dex dex="E:\alarm-me-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3f1cb87347e5f284ec38cebdb009f47a1a85b4fb\classes.dex" />
+    </item>
+
+</items>

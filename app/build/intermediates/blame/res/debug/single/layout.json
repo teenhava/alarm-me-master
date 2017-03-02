@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\alarm-me-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "E:\\alarm-me-master\\app\\src\\main\\res\\layout\\menu.xml"
+    }
+]
